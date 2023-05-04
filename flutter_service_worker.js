@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "59cec4947ae8ec6f248885230af0c108",
-"/": "59cec4947ae8ec6f248885230af0c108",
+  "index.html": "ca858e3cabbfb68f32f19be08521b2ce",
+"/": "ca858e3cabbfb68f32f19be08521b2ce",
 "manifest.json": "1c3ff1072b817e0528ed4745381e7457",
-"main.dart.js": "2d868f428c34f2818638bd501cd6d10e",
+"main.dart.js": "ed4390454cb6660f94f25e110ceb9db1",
 "icons/Icon-maskable-192.png": "d2b963f3010aa933e1b74b1e2f093e01",
 "icons/Icon-192.png": "d2b963f3010aa933e1b74b1e2f093e01",
 "icons/Icon-512.png": "eca475bbde94f49d4146bcf3e8dcfdb3",
@@ -26,7 +26,7 @@ const RESOURCES = {
 "assets/packages/flutter_dropzone_web/assets/flutter_dropzone.js": "0266ef445553f45f6e45344556cfd6fd",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/AssetManifest.json": "9dffc23e2101c193a64dbc674d7e88e0",
-"assets/fonts/MaterialIcons-Regular.otf": "a9b155f70d03699c565258807a74bdbe",
+"assets/fonts/MaterialIcons-Regular.otf": "69c6519a7fdaccdf08c71c49d918f0c9",
 "assets/assets/images/undraw_page_not_found_re_e9o6.svg": "9db21ea7c8fe15417d7e74ba0ed5bbbb",
 "assets/assets/images/no-profile.png": "cf09e00170d77f79bb6221b42f6ac74d",
 "assets/assets/images/mamapays.png": "8057c8b79c72ba78b42d0e4a7f5d1f9a",
