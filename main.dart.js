@@ -105427,7 +105427,7 @@ o=n.a.c
 o=A.aQ(A.b([new A.d_("Institution Type",r,B.ba,m),new A.d_("Institution Code",p,B.ia,m),new A.d_("Institution Country",q,B.ic,m),new A.v_("Is credit card allowed?",o.Q,m),new A.v_(u.f,o.as,m)],f),B.o,B.i,B.f)
 r=n.a.c.c
 e=A.dT(A.aQ(A.b([e,d,c,s,A.aF(A.b([o,new A.EJ("Institution Card",r.length===0?"assets/images/no-image-available.png":r,B.tQ,m)],f),B.n,B.cK,B.f)],f),B.n,B.i,B.f),m,B.y,m,m,B.F)
-d=A.r(m,A.k(a,m,k).w.a.a*0.012*2,m)
+d=A.r(m,A.k(a,m,k).w.a.a*0.012,m)
 if(n.a.c.r){c=A.n(a).eR
 c.toString
 c=new A.q6(c,B.tM,"Deactivate",new A.aIz(n),n.y,m)}else c=new A.q6(A.n(a).fr,B.tI,"Activate",new A.aIA(n),n.x,m)
