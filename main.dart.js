@@ -110111,7 +110111,7 @@ B(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=A.bbs(a),g=A.C(a).p3.d
 g.toString
 s=t.w
 r=A.i(a,i,s).w
-r=A.at("Mamapay Dashboard",i,i,i,i,g.kr(A.C(a).ax.b,r.a.a*0.023,B.K),i,i,i)
+r=A.at("Mamapays Dashboard",i,i,i,i,g.kr(A.C(a).ax.b,r.a.a*0.023,B.K),i,i,i)
 g=A.B(i,A.i(a,i,s).w.a.a*0.01,i)
 q=j.ajY(a)
 p=A.B(i,A.i(a,i,s).w.a.a*0.01/2,i)
