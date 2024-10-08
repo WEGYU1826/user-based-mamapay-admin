@@ -1,6 +1,6 @@
 {
-    "name": "mama_pay_admin",
-    "short_name": "mama_pay_admin",
+    "name": "mamapays_dashboard",
+    "short_name": "mamapays_dashboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
