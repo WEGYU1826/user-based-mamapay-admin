@@ -104161,7 +104161,7 @@ $S:133}
 A.awn.prototype={
 $3(a,b,c){var s=A.aY(a,null,t.w).w,r=A.Y(a,0.25,0.7,0.455,0.26),q=A.Y(a,0.2,0.54,0.33,null),p=b.b
 p=p.length===0||p==="null"?"Not Available.":B.c.aq(p)
-return A.a0(["containerWidth",s.a.a*r,"nameWidth",q,"name",p,"profilePic","item.logoImageUrl","svgUrl",$.b5Y],t.N,t.K)},
+return A.a0(["containerWidth",s.a.a*r,"nameWidth",q,"name",p,"profilePic",b.d,"svgUrl",$.b5Y],t.N,t.K)},
 $S:738}
 A.awq.prototype={
 $1(a){return A.Y(a,0.195,0.63,0.4,null)},
